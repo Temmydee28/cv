@@ -1,0 +1,30 @@
+
+
+
+
+
+body {
+    background-color:bisque;
+}
+
+
+
+#pictures {
+    width: 150px;
+    border-radius: 100px;
+    transition: zoom;
+
+}
+
+button {
+    width:200px;
+    height: 100px;
+    padding:40px;
+}
+
+button:hover {
+    background-color: rgb(79, 10, 10);
+    color: black;
+
+}
+
